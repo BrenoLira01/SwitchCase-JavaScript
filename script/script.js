@@ -11,7 +11,7 @@ frutas.forEach(function (botao) {
                 break;
 
             case "🍉":
-                corBotao.style.background = "#F36049";
+                corBotao.style.background = "#F68574";
                 break;
 
             case "🍇":
