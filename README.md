@@ -1,3 +1,5 @@
+# Switch case em JavaScript
+
 ## Introdução
 Este é um projeto simples desenvolvido para estudos de switch case em JavaScript. A proposta é interativa: ao clicar em um botão, a interface do usuário reage, demonstrando a funcionalidade e a aplicação do comando switch case.
 
