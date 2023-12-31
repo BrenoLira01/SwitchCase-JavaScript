@@ -29,6 +29,10 @@ frutas.forEach(function (botao) {
             case "🍐":
                 corBotao.style.background = "#CBE042";
                 break;
+                
+                    default:
+                
+                console.log("Botão não reconhecido:", botao.innerText);
         }
 
     });
