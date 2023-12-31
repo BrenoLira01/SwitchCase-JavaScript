@@ -1,4 +1,6 @@
-# Switch case em JavaScript
+<div align="center">
+  <h1>Switch case em JavaScript</h1>
+</div>
 
 ## Introdução
 Este é um projeto simples desenvolvido para estudos de switch case em JavaScript. A proposta é interativa: ao clicar em um botão, a interface do usuário reage, demonstrando a funcionalidade e a aplicação do comando switch case.
