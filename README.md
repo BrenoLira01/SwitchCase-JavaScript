@@ -3,9 +3,7 @@ Este é um projeto simples desenvolvido para estudos de switch case em JavaScrip
 
 ## Visualizar
 
-Para ver o projeto em ação, acesse o link [aqui](https://brenolira01.github.io/Estudos-de-switch-case-em-JavaScript
-
-/), onde você poderá interagir com a demonstração.
+Para ver o projeto em ação, acesse o link [aqui](https://brenolira01.github.io/Estudos-de-switch-case-em-JavaScript/), onde você poderá interagir com a demonstração.
 
 ## Demonstração do Projeto
 
