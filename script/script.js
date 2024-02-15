@@ -7,9 +7,9 @@ frutas.forEach(function (botao) {
 
         switch (botao.innerText) {
             case "🍌":
-                corBotao.style.background = "#FBCD63";
+                corBotao.style.background = "#fccf3b";
                 break;
-
+                
             case "🍉":
                 corBotao.style.background = "#F68574";
                 break;
@@ -23,17 +23,15 @@ frutas.forEach(function (botao) {
                 break;
 
             case "🍓":
-                corBotao.style.background = "#DC320F";
+                corBotao.style.background = "#f22d2d";
                 break;
 
-            case "🍐":
-                corBotao.style.background = "#CBE042";
+            case "🥑":
+                corBotao.style.background = "#25de29";
                 break;
                 
                     default:
-                
                 console.log("Botão não reconhecido:", botao.innerText);
         }
-
     });
 });
