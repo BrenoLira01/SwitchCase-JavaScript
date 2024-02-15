@@ -3,11 +3,12 @@
 </div>
 
 ## Introdução
+
 Este é um projeto simples desenvolvido para estudos de switch case em JavaScript. Ao clicar em um botão, o quadrado muda de cor, demonstrando a funcionalidade do comando switch case.
 
 ## Visualizar
 
-Para ver o projeto em ação, clique [aqui](https://brenolira01.github.io/Estudos-de-switch-case-em-JavaScript/)
+Para ver o projeto em ação, clique [aqui](https://brenolira01.github.io/SwitchCase-JavaScript/)
 
 ## Demonstração do Projeto
 
@@ -16,7 +17,6 @@ Para ver o projeto em ação, clique [aqui](https://brenolira01.github.io/Estudo
 ## 🧠 Tecnologias Utilizadas
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 
 ## Autor
 
