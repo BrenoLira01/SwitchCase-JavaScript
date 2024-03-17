@@ -52,3 +52,14 @@ footer {
 .fruta:active {
   transform: translateY(4px);
 }
+
+@media only screen and (max-width: 768px) {
+  section {
+    width: 90vw;
+  }
+
+  .fruta {
+    font-size: 2.8em;
+    margin: 30px 10px 30px;
+  }
+}
