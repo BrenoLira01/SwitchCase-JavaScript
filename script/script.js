@@ -7,10 +7,12 @@ frutas.forEach(function (botao) {
     switch (botao.innerText) {
       case "🍌":
         document.body.style.backgroundColor = "#f1c329";
+        document.querySelector("header").style.color = "black";
+        document.querySelector("footer").style.color = "black";
         break;
 
       case "🍉":
-        document.body.style.backgroundColor = "#F68574";
+        document.body.style.backgroundColor = "#f22d2d";
         break;
 
       case "🍇":
@@ -21,12 +23,14 @@ frutas.forEach(function (botao) {
         document.body.style.backgroundColor = "#F8762A";
         break;
 
-      case "🍓":
-        document.body.style.backgroundColor = "#f22d2d";
+      case "🍈":
+        document.body.style.backgroundColor = "#a9d399";
+        document.querySelector("header").style.color = "black";
+        document.querySelector("footer").style.color = "black";
         break;
 
       case "🥑":
-        document.body.style.backgroundColor = "#24d147";
+        document.body.style.backgroundColor = "#059a23";
         break;
 
       default:
