@@ -6,9 +6,9 @@
 
 Este é um projeto simples desenvolvido para estudos de switch case em JavaScript. Ao clicar em um botão, o quadrado muda de cor, demonstrando a funcionalidade do comando switch case.
 
-## Visualizar
+## 👀 Ver projeto
 
-Para ver o projeto em ação, clique [aqui](https://brenolira01.github.io/SwitchCase-JavaScript/)
+Acesse o link [aqui](https://brenolira01.github.io/SwitchCase-JavaScript/)
 
 ## Demonstração do Projeto
 
