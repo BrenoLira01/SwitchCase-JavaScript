@@ -1,14 +1,23 @@
-const frutas = document.querySelectorAll(".fruta");
+let frutas = document.querySelectorAll(".fruta");
+let header = document.querySelector("header");
+let footer = document.querySelector("footer");
 
 frutas.forEach(function (botao) {
   botao.addEventListener("click", function () {
-    document.querySelector("header").style.color = "white";
-    document.querySelector("footer").style.color = "white";
+    header.style.color = "white";
+    footer.style.color = "white";
+
     switch (botao.innerText) {
       case "🍌":
         document.body.style.backgroundColor = "#f1c329";
-        document.querySelector("header").style.color = "black";
-        document.querySelector("footer").style.color = "black";
+        header.style.color = "black";
+        footer.style.color = "black";
+        break;
+
+      case "🍈":
+        document.body.style.backgroundColor = "#a9d399";
+        header.style.color = "black";
+        footer.style.color = "black";
         break;
 
       case "🍉":
@@ -23,18 +32,12 @@ frutas.forEach(function (botao) {
         document.body.style.backgroundColor = "#F8762A";
         break;
 
-      case "🍈":
-        document.body.style.backgroundColor = "#a9d399";
-        document.querySelector("header").style.color = "black";
-        document.querySelector("footer").style.color = "black";
-        break;
-
       case "🥑":
         document.body.style.backgroundColor = "#059a23";
         break;
 
       default:
-        console.log("Botão não reconhecido:", botao.innerText);
+        alert("[ERRO] porfavor tente novamente.");
     }
   });
 });

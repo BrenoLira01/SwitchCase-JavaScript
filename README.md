@@ -12,7 +12,7 @@ Acesse o link [aqui](https://brenolira01.github.io/SwitchCase-JavaScript/)
 
 ## Demonstração do Projeto
 
-![Imagem de Exemplo](./imagens/switch_case.png)
+![Imagem de Exemplo](./imagens/demonstração.gif)
 
 ## 🧠 Tecnologias Utilizadas
 
