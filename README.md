@@ -1,7 +1,3 @@
-<div align="center">
-  <h1>Switch case em JavaScript</h1>
-</div>
-
 ## Introdução
 
 Este é um projeto simples desenvolvido para estudos de switch case em JavaScript. Ao clicar em um botão, o quadrado muda de cor, demonstrando a funcionalidade do comando switch case.
@@ -20,13 +16,9 @@ Clique [aqui](https://brenolira01.github.io/SwitchCase-JavaScript/) para ver o p
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas e solicitações de pull para melhorar este projeto.
 
-## Autor
-
-Feito por [Francisco Breno](https://www.linkedin.com/in/breno-lira-perfil).
-
 ## Contato
 
-[Email](mailto:franciscobrenolira@gmail.com)
+- [Email](mailto:franciscobrenolira@gmail.com)
 
 ## Licença
 
